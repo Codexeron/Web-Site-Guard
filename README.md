@@ -375,12 +375,6 @@ Katkılarınız bizim için değerli! Lütfen şu adımları izleyin:
 
 ---
 
-## 🔐 Güvenlik Bildirimi
-
-Bir güvenlik açığı bulursanız lütfen **public issue açmayın**. Bunun yerine doğrudan iletişime geçin: **security@example.com**
-
----
-
 ## 📄 Lisans
 
 Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için [`LICENSE`](./LICENSE) dosyasına bakın.
